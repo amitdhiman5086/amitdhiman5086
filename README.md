@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdhiman5086&label=Profile%20views&color=0e75b6&style=flat" alt="amitdhiman5086" /> </p>
 
@@ -67,12 +67,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
-
-## 📊 GitHub Statistics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdhiman5086&show_icons=true&locale=en&layout=compact&theme=dark" alt="amitdhiman5086" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitdhiman5086&show_icons=true&locale=en&theme=dark" alt="amitdhiman5086" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitdhiman5086&theme=dark" alt="amitdhiman5086" /></p>
 
